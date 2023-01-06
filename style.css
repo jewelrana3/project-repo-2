@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 16px 20px;
+    border: none;
+    background: #ebdcdc;
+    color: white;
+    border-radius: 5px;
+    margin-top: 45px;
+}
+
+/* header style start */
+header {
+    background-image: url('images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.navbar {
+    padding: 174px 307px;
+    text-align: center;
+
+}
+
+.navabr-title {
+    color: white;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 65px;
+
+
+}
+
+.navbar-des {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+/* main styles */
+.donate-today {
+    padding: 204px 290px;
+    text-align: center;
+}
+
+.today-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.today-des {
+    margin-top: 20px;
+    color: #707070
+}
+
+.donate-today-container {
+    display: flex;
+} 
+
+.today-item-backround {
+
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    padding:27px 15px 45px;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FF5959;
+    height: 22px;
+    text-align: center;
+}
+
+.today-item {
+    color: #707070;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding: 30px 17px;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-weight: 700;
+    font-size: 30px;
+    height: 40px;
+
+}
+
+.today-item1 {
+    color: #707070;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding: 30px 9px;
+    margin: 0 auto;
+    justify-content: space-around;
+    margin-top: 50px;
+    font-weight: 700;
+    font-size: 30px;
+    height: 40px;
+
+}
