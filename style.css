@@ -8,8 +8,8 @@
     font-size: 20px;
     padding: 16px 20px;
     border: none;
-    background: #ebdcdc;
-    color: white;
+    background: #cf3232;
+    color: rgb(236, 218, 218);
     border-radius: 5px;
     margin-top: 45px;
 }
@@ -63,14 +63,14 @@ header {
 
 .donate-today-container {
     display: flex;
-} 
+}
 
 .today-item-backround {
 
     background-color: #FFEEEE;
     border: 2px solid #FF5959;
     border-radius: 5px;
-    padding:27px 15px 45px;
+    padding: 27px 15px 45px;
     margin: 0 auto;
     margin-top: 50px;
     font-weight: 700;
@@ -105,4 +105,33 @@ header {
     font-size: 30px;
     height: 40px;
 
+}
+
+.last-des {
+    color: #B3B3B3;
+    margin-top: 60px;
+}
+
+hr {
+    margin-top: 9px;
+    border: 1px solid #DADADA;
+}
+
+/* our donate plan styles */
+.our-donate-plan {
+    padding: 204px 290px;
+    text-align: center;
+   
+}
+
+.our-donate-titlt {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.our-donate-des {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070
 }
