@@ -16,7 +16,7 @@
 
 /* header style start */
 header {
-    background-image: url('images/donation13.jpg');
+    background-image: url('images/donation4.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -121,7 +121,7 @@ hr {
 .our-donate-plan {
     padding: 204px 290px;
     text-align: center;
-   
+
 }
 
 .our-donate-titlt {
@@ -135,3 +135,110 @@ hr {
     font-size: 18px;
     color: #707070
 }
+
+/* donate-container styles */
+.donate-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    justify-content: center;
+     padding: 0 200px;
+
+}
+
+.donate-title {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 31px;
+}
+
+.donate-des {
+    width: 215px;
+    height: 90px; 
+    left: 180px;
+    top: 1792.5px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 16px;
+    color: #707070;
+    justify-content: justify;
+}
+
+ .first {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    color: #707070;
+    margin: 6px;
+    padding: 40px 20px 54px;
+    
+
+} 
+
+.second {
+    
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+    color: #707070;
+    margin: 6px;
+    padding: 40px 20px 54px;
+     
+} 
+
+.third {
+    background: rgba(175, 177, 177, 0.1);
+    border-radius: 5px;
+    color: #707070;
+    margin: 6px;
+    padding: 40px 20px 54px;
+     
+} 
+
+.donate-container img{
+display: block;
+ }
+ .first img{
+    display: block;
+    width: 53px;
+height: 53px;
+ }
+ .second img{
+    display: block;
+    width: 53px;
+height: 53px;
+ }
+ .third img{
+    display: block;
+     
+ }
+ /* Their lives depend on styles */
+ .lives{
+    display: flex;
+    padding:30px 290px;
+ }
+ .left-side{
+
+ }
+ .right-side{
+    margin: 6px;
+ }
+ .right-side img{
+    width:400px;
+    height:300px;
+ }
+ .live-title{
+    margin-bottom: 20px;
+ }
+ .live-des{
+    margin-bottom: 20px;
+    color: #707070;
+ }
+ /* lives to styles */
+ .lives2{
+    display: flex;
+    padding:30px 290px;
+     
+ }
